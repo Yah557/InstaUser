@@ -135,5 +135,6 @@ if ruks =='3':
     os.system('xdg-open https://t.me/uinstauserbot')
 #@DIBIBl	
 else:
-	print('')
-Code_ruks()           
+	print('4User.py')
+Code_ruks(the y
+	 )           
